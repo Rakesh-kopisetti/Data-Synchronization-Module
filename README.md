@@ -101,7 +101,7 @@ Isar (Local) / Firebase (Remote)
 
 1. **Clone/Extract Project**
 ```bash
-cd c:\Users\RAKESH\Downloads\GPP\Data-Synchronization-Module\offline_sync_app
+cd offline_sync_app
 ```
 
 2. **Install Dependencies**
